@@ -13,3 +13,9 @@ git clone https://huggingface.co/mlc-ai/mlc-chat-Llama-2-7b-chat-hf-q4f16_1 \
 
 git clone https://github.com/mlc-ai/binary-mlc-llm-libs.git dist/prebuilt/lib
 ```
+
+## Running Tests
+
+```python
+python3 -m unittest
+```
